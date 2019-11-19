@@ -1,12 +1,12 @@
 {
-    "name": "haggag/laravel-visitors",
-    "description": "Visitor tracker and statistics for Laravel 5",
+    "name": "MahmoudSaidHaggag/laravel-visitors",
+    "description": "Visitor tracker and statistics for Laravel 6",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexander Zavyalov",
-            "email": "alex@voerro.com"
+            "name": "Mahmoud Haggag",
+            "email": "mahmoudhaggag641@gmail.com"
         }
     ],
     "minimum-stability": "stable",
