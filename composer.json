@@ -1,5 +1,5 @@
 {
-    "name": "MahmoudSaidHaggag/laravel-visitors",
+    "name": "haggag/laravel-visitors",
     "description": "Visitor tracker and statistics for Laravel 6",
     "type": "library",
     "license": "MIT",
